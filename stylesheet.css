@@ -1,0 +1,15 @@
+body {
+  background-image: url('home_image.jpg')
+}
+
+header {
+  background-color: red;
+  height: auto;
+  width: auto;
+}
+
+.page_title {
+  font-family: 'arial black';
+  font-size: 30px;
+  color; white;
+}
